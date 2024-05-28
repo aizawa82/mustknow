@@ -1,5 +1,13 @@
 # Must know cases
 
+### Useful resources
+
+**Journals**: NEJM, JAMA, Lancet, BMJ (search for reviews), [Clinical Medicine | RCP Journals](https://www.rcpjournals.org/content/clinmedicine "Clinical Medicine | RCP Journals")
+
+**Podcasts**: [The Curbsiders - An Internal Medicine Podcast](https://thecurbsiders.com/ "The Curbsiders - An Internal Medicine Podcast"), [A Geriatrics and Palliative Care Podcast for Every Healthcare Professional](https://geripal.org/ "A Geriatrics and Palliative Care Podcast for Every Healthcare Professional")
+
+**Websites**: [Search - UpToDate](https://sso.uptodate.com/contents/search "Search - UpToDate"), [PubMed](https://pubmed.ncbi.nlm.nih.gov/ "PubMed"), [Palliative Care Fast Facts](https://www.mypcnow.org/ "Palliative Care Network of Wisconsin | Fast Facts | Resources")
+
 ## Cardiology
 
 ### Infective endocarditis
